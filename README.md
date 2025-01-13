@@ -1,3 +1,8 @@
+# There are two routes:-
+# "/" - for admin login to reply users
+# "/chat" - for general users to get help from admins
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
